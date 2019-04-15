@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c37f7746917f4760aa00e7ff7fd81dc, type: 3}
+  m_Name: ARReferenceImagesSet
+  m_EditorClassIdentifier: 
+  resourceGroupName: Room18
+  referenceImages:
+  - {fileID: 11400000, guid: 80dc4108ea0864398a32868ec49c204c, type: 2}
+  - {fileID: 11400000, guid: 9b23c1069be64448bb95c309d7c0e4e4, type: 2}
+  - {fileID: 11400000, guid: 34871aebb962344149d2a3086b96a0da, type: 2}
+  - {fileID: 11400000, guid: 61a2f0e3c9174440bb8d301facb686d9, type: 2}
+  - {fileID: 11400000, guid: 47fa5dd1582ca44d3b7ea87a1c953ea3, type: 2}

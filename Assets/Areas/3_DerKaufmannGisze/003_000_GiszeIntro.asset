@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e4a229547d8a40678ccb8b4ee514ace, type: 3}
+  m_Name: 003_000_GiszeIntro
+  m_EditorClassIdentifier: 
+  title: The merchant Georg Gisze (1497-1562)
+  title_de: 'Der Kaufmann Georg Gisze (1497-1562) '
+  subtitle: "Hans Holbein (the Younger) (1497/98 - 1543) \u2014 oak, 97,5 x 86,2 cm
+    \nAcquired 1821 - Collection: Gem\xE4ldegalerie"
+  subtitle_de: "Hans Holbein (der J\xFCngere) (1497/98 - 1543) \u2014 Eichenholz,
+    97,5 x 86,2 cm\nErworben 1821 - Sammlung: Gem\xE4ldegalerie\n"
+  body: "The portrait shows Georg Gisze, a Hanseatic merchant from Gdansk, aged 34.
+    \n\nHe sits behind the desk in a corner of his London office, surrounded by numerous
+    objects documenting his stand. In 1532, when the portrait was painted, Georg Gisze
+    was one of the leading men of London's Stalhof, one of the most powerful trading
+    posts of the Hanseatic League. "
+  body_de: "Das Portr\xE4t zeigt den aus Danzig stammenden Hansekaufmann Georg Gisze
+    im Alter von 34 Jahren.\n\nEr sitzt hinter dem Arbeitstisch in einer Ecke seines
+    Londoner Kontors, umgeben von zahlreichen Gegenst\xE4nden, die seinen Stand dokumentieren.
+    Im Jahr 1532, als das Portr\xE4t entstand, geh\xF6rte Georg Gisze zu den f\xFChrenden
+    M\xE4nnern des Londoner Stalhofs, eines der m\xE4chtigsten Handelsst\xFCtzpunkte
+    der Hanse. "
+  image: {fileID: 21300000, guid: e14564e2c527c423ebb7a03b28387a90, type: 3}
+  nextCard: {fileID: 0}

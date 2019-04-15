@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951fa9f16a9ed4e0e894fabd7765b9d4, type: 3}
+  m_Name: 003_001_POI1_Moto
+  m_EditorClassIdentifier: 
+  title: Details in the picture
+  title_de: 'Details im Bild '
+  subtitle: "\u201CNo joy without suffering\u201D"
+  subtitle_de: "\u201COhne Leid kein Freud\u201D"
+  body: 'The picture contains numerous details that characterise Gisze''s person and
+    status. Particularly striking is the bright red of his silk jacket, which is not
+    found in other portraits of merchants of the time. This colour was, however, common
+    among the nobility. In fact, Gisze had been ennobled in 1519, and the sword -
+    whose crystal knob protrudes from Gisze''s left hip, refers to this elevated position.
+    The small note in the upper left corner, which is made to look like it is attached
+    to the surface of the painting with sealing wax, indicates Georg Gisze''s age
+    of 34 in 1532. Gisze''s motto is written on the left side of the wall in chalk.
+    It roughly translates as: "No joy without suffering".'
+  body_de: "Das Bild enth\xE4lt zahlreiche Details, die Giszes Person und Stand kennzeichnen:
+    Besonders auff\xE4llig ist das leuchtende Rot seines aus Seide gefertigten Wams,
+    das in anderen Kaufmannsbildnissen der Zeit nicht vorkommt. Diese Farbe ist dagegen
+    beim Adel \xFCblich, und tats\xE4chlich war Gisze 1519 geadelt worden; auf diesen
+    Stand verweist auch das Schwert, dessen Kristallknauf an Giszes linker H\xFCfte
+    hervorsieht. Der kleine Zettel oben links, der mit Siegellack auf der Bildoberfl\xE4che
+    angeheftet zu sein scheint, gibt Georg Giszes Alter mit 34 im Jahr 1532 an. Giszes
+    Wahlspruch scheint links mit Kreide auf die Wand geschrieben zu sein und bedeutet
+    \xFCbersetzt ungef\xE4hr \u201EOhne Leid kein Freud\u201C."
+  image: {fileID: 21300000, guid: 9dc8915debd3042fea7598ba929a3304, type: 3}
+  nextCard: {fileID: 0}
+  audio: {fileID: 8300000, guid: 619c3f2c7ad584235a3b39662ca53439, type: 3}
+  audio_de: {fileID: 8300000, guid: 5303366b97fda46d4a2ab2d616cc441b, type: 3}

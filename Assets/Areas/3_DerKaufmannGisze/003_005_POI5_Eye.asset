@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951fa9f16a9ed4e0e894fabd7765b9d4, type: 3}
+  m_Name: 003_005_POI5_Eye
+  m_EditorClassIdentifier: 
+  title: Hidden Details
+  title_de: 'Verborgene Details '
+  subtitle: Change of pose
+  subtitle_de: "Ver\xE4nderungen Pose"
+  body: This X-ray reveals deeper layers of paint and thus shows changes that the
+    artist made to the composition during the painting process. Holbein changed the
+    direction of the merchant's gaze and his head posture several times. Today, Gisze
+    can be seen in a slightly lateral position, in which his gaze is directed at the
+    viewer. The x-ray shows that Gisze's head was originally aligned frontally. His
+    left eye was where his right eye can be seen today. In a second step, the artist
+    turned the merchant's head to one side. As a result of the rotation, Gisze's gaze
+    was directed out of the picture. Only the last revision led to the result visible
+    today, in which Gisze looks at us.
+  body_de: "Diese R\xF6ntgenaufnahme enth\xFCllt tiefer liegende Malschichten und
+    zeigt somit Ver\xE4nderungen, die der K\xFCnstler w\xE4hrend des Malens an der
+    Komposition vornahm. Mehrfach \xE4nderte Holbein Blickrichtung und Kopfhaltung
+    des Kaufmanns. Heute ist Gisze in einer leicht seitlichen Position zu sehen, bei
+    der sein Blick direkt auf den Betrachter gerichtet ist. Im R\xF6ntgenbild kann
+    man erkennen, dass der Kopf von Gisze urspr\xFCnglich frontal ausgerichtet war.
+    Sein linkes Auge befand sich dort, wo heute sein rechtes zu sehen ist. Im zweiten
+    Schritt hat der K\xFCnstler den Kopf des Kaufmanns zur Seite gedreht. Durch die
+    Drehung verlief Giszes Blick aus dem Bild. Erst in der letzten \xDCberarbeitung
+    entstand das heute sichtbare Resultat, bei dem Gisze uns anblickt."
+  image: {fileID: 21300000, guid: ebc6089e8390649c8860f3fbb7ad7581, type: 3}
+  nextCard: {fileID: 0}
+  audio: {fileID: 0}
+  audio_de: {fileID: 8300000, guid: 2ec1087ef70b54eb699305d09148040a, type: 3}

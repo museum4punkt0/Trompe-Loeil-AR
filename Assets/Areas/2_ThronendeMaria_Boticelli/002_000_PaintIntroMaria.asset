@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e4a229547d8a40678ccb8b4ee514ace, type: 3}
+  m_Name: 002_000_PaintIntroMaria
+  m_EditorClassIdentifier: 
+  title: Madonna with Saints "Bardi Altar" (1484/1485)
+  title_de: "Thronende Maria mit dem Kind und den beiden Johannes \u201EBardi-Altar\u201C
+    (1484/1485)"
+  subtitle: "Sandro Botticelli (1445 - 1510) \u2014 poplard, 185 x 180 cm\nAcquired
+    1829 - Collection: Gem\xE4ldegalerie"
+  subtitle_de: "Sandro Botticelli (1445 - 1510)\nPappelholz, 185 x 180 cm, Erworben
+    1829 - Sammlung: Gem\xE4ldegalerie"
+  body: 'The picture shows Mary enthroned on a marble-clad bench with her child. She
+    sits between John the Baptist and John the Evangelist. At the place of honour,
+    to the right of the Madonna, stands John the Baptist, patron saint of the chapel
+    for which the altar was created. He was also the patron saint of the commissioner
+    and patron saint of Florence, where Botticelli was active. The composition of
+    the picture is a classic example of the Sacra Conversazione theme. Sitting on
+    a throne, Mary is "in conversation" with the accompanying saints to whom the faithful
+    ask for the protection of the Madonna. The figures are surrounded by rich, dense
+    vegetation. Ribbons on the flower vases and in the foliage bear quotes from the
+    Book of Ecclesiasticus that describe the Mother of God as the throne of divine
+    wisdom.
+
+
+    Copyright text:  National Museums in Berlin / Erich Schleier'
+  body_de: "Das Bild stellt die auf der marmorverkleideten Steinbank thronende Maria
+    mit dem Kind zwischen Johannes dem T\xE4ufer und Johannes dem Evangelisten dar.
+    Der Ehrenplatz zur Rechten der Madonna ist Johannes dem T\xE4ufer zugewiesen,
+    dem Titelheiligen der Kapelle, aus der der Altar stammt. Er war auch Namenspatron
+    des Auftraggebers und Stadtpatron von Florenz, wo Botticelli aktiv war. Die Komposition
+    des Bildes ist ein klassisches Beispiel der Sacra Conversazione, der thronenden
+    Madonna \xBBim Gespr\xE4ch\xAB mit den flankierenden Heiligen, die die Gl\xE4ubigen
+    dem Schutz der Madonna anempfehlen. Die Figuren sind hinterfangen von einer reichen,
+    dichten Vegetation. An den Blumenvasen und im Laubwerk weisen Schriftb\xE4nder
+    mit lateinischen Zitaten aus dem Buch Jesus Sirach darauf hin, dass nach mittelalterlicher
+    Auslegung die Gottesmutter als Thron der g\xF6ttlichen Weisheit verstanden wurde.\n\nCopyright
+    Text:  \xA9  Gem\xE4ldegalerie, Staatliche Museen zu Berlin / Erich Schleier"
+  image: {fileID: 21300000, guid: fc21f570bf05c4cffab10217a1ecedcc, type: 3}
+  nextCard: {fileID: 0}

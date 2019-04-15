@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951fa9f16a9ed4e0e894fabd7765b9d4, type: 3}
+  m_Name: 004-001POI
+  m_EditorClassIdentifier: 
+  title: A precious item
+  title_de: Ein kostbarer Gebrauchsgegenstand
+  subtitle: Press the button to open and close and the wings!
+  subtitle_de: "\xD6ffne und Schlie\xDFe das Tryptichon!"
+  body: Today in the museum, for conservation reasons, you cannot open and close the
+    triptych. However, within this unique AR experience, you can now open and close
+    the triptych just as its medieval owner once did! You may notice that a silvery-looking
+    rose gold was used for the outside of the wings, while within the opened triptych,
+    the object shines in gold. An increase in the quality and preciousness of the
+    materials from the outside to the inside is typical for triptychs. By revealing
+    their splendour - step by step - they transform the prayer into a particularly
+    sensory and intimate religious experience.
+  body_de: "Was heute im Museum aus konservatorischen Gr\xFCnden nicht m\xF6glich
+    ist, kannst du in diesem AR-Erlebnis machen: Wie der mittelalterliche Besitzer
+    des Triptychons kannst du das Objekt \xF6ffnen und schlie\xDFen. Vielleicht f\xE4llt
+    dir auf, dass f\xFCr die Fl\xFCgelau\xDFenseiten ein silbrig erscheinendes Rosengold
+    verwendet wurde, w\xE4hrend das ge\xF6ffnete Triptychon in Goldglanz erstrahlt.
+    Diese Steigerung des Glanzes und der Kostbarkeit der Materialien von au\xDFen
+    nach innen ist typisch f\xFCr Triptychen. Indem sie erst Schritt f\xFCr Schritt
+    ihre Kostbarkeit enth\xFCllen, verwandeln sie das Gebet in eine besonders sinnliche
+    und intime religi\xF6se Erfahrung."
+  image: {fileID: 21300000, guid: 1f8962739fc44464b931e13db3495be1, type: 3}
+  nextCard: {fileID: 0}
+  audio: {fileID: 0}
+  audio_de: {fileID: 8300000, guid: 0148f78118e39435593b0d06d69cc4ca, type: 3}

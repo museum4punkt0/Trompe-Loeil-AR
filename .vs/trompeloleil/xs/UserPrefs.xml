@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4EEF40CF-FA1E-E4EE-C4B2-20ACA36F09B2}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NEEEU/Scripts/Comment.cs">
+    <Files>
+      <File FileName="Assets/NEEEU/Scripts/CommentInspector.cs" Line="102" Column="7" />
+      <File FileName="Assets/NEEEU/Scripts/Comment.cs" Line="100" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

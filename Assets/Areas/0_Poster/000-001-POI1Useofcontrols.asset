@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951fa9f16a9ed4e0e894fabd7765b9d4, type: 3}
+  m_Name: 000-001-POI1Useofcontrols
+  m_EditorClassIdentifier: 
+  title: Well done!
+  title_de: Gut gemacht!
+  subtitle: "When you are ready, please press the back arrow in the bottom left corner
+    of the screen to return to \xA8Scanning \xA8mode."
+  subtitle_de: "Wenn du soweit bist, tippe einfach auf den schwarzen Zur\xFCck-Pfeil
+    unten links auf dem Bildschirm und du kommst zur\xFCck in den Scan-Modus."
+  body: This is where you can read further details about the paintings.
+  body_de: "Hier k\xF6nnen Sie weitere Details zu den Gem\xE4lden nachlesen."
+  image: {fileID: 21300000, guid: 43b3b4211d2e6419a974f3794dc45c77, type: 3}
+  nextCard: {fileID: 0}
+  audio: {fileID: 0}
+  audio_de: {fileID: 0}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e4a229547d8a40678ccb8b4ee514ace, type: 3}
+  m_Name: 004-000_TriptischIntro
+  m_EditorClassIdentifier: 
+  title: 'Triptych '
+  title_de: 'Triptychon '
+  subtitle: "Taddeo di Gaddo Gaddi (1300 - 1366) \u2014 poplar, 62,3 x 20,7 cm per
+    wing\n62,5 x 41,1, middle panel \u2014\_62,4 x 22 cm,  closed \u2014 Acquired:
+    1821 - Collection: Gem\xE4ldegalerie"
+  subtitle_de: "Taddeo di Gaddo Gaddi (1300 - 1366) \u2014\_Pappelholz, 62,3 x 20,7
+    cm je Fl\xFCgel\n62,5 x 41,1, Mitteltafel \u2014 62,4 x 22 cm,  geschlossen \u2014
+    Erworben: 1821 - Sammlung: Gem\xE4ldegalerie\n"
+  body: This object is called a triptych. It consists of a central panel that can
+    be closed and opened with two wings. In the Middle Ages, triptychs were widespread
+    in religious contexts. They could be very large and decorate church altars. Then
+    they were only opened on important Christian holidays. This triptych, however,
+    is very small and was therefore intended for private use. Its wealthy owner would
+    likely open it for private prayer and then close the wings again afterwards.
+  body_de: "Dieses Objekt ist ein sogenanntes Triptychon: Es besteht aus einer Mitteltafel,
+    die sich mit zwei Fl\xFCgeln verschlie\xDFen und \xF6ffnen l\xE4sst. Im Mittelalter
+    waren Triptychen im religi\xF6sen Kontext weit verbreitet. Sie konnten sehr gro\xDF
+    sein und Kirchenalt\xE4re schm\xFCcken. Dann wurden sie nur an hohen kirchlichen
+    Feiertagen ge\xF6ffnet. Dieses Triptychon ist indes sehr klein und war daher eher
+    f\xFCr den Privatgebrauch bestimmt. Sein wohlhabender Besitzer konnte es f\xFCr
+    sein privates Gebet \xF6ffnen und anschlie\xDFend die Fl\xFCgel wieder zuklappen."
+  image: {fileID: 21300000, guid: 3509059b595ae47299dea8f66127bb50, type: 3}
+  nextCard: {fileID: 0}

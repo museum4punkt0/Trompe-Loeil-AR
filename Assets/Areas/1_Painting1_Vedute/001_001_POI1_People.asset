@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951fa9f16a9ed4e0e894fabd7765b9d4, type: 3}
+  m_Name: 001_001_POI1_People
+  m_EditorClassIdentifier: 
+  title: The invisible inhabitants of the ideal city
+  title_de: Unsichtbare Bewohner der idealen Stadt
+  subtitle: 'Were they part of the original picture?
+
+'
+  subtitle_de: "Geh\xF6ren Sie zur ersten Konzeption des Bildes?"
+  body: What surprises most in this view of the city is that it is completely deserted.
+    Everything is entirely focused on architecture and the creation of perspective.
+    However, the picture did not always look the way it does today. In 16th century
+    society, the role of painting changed. It is suspected that an image without people
+    was perceived as disturbing. Do you notice anything peculiar about the painting?
+    In the left foreground you see grey shadows, which on closer inspection reveal
+    themselves to be silhouettes. Here, a whole cast of characters was once inserted
+    and then removed again at a later date.
+  body_de: "An dieser Stadtansicht \xFCberrascht, dass sie v\xF6llig menschenleer
+    ist. Alles ist ganz auf die Architektur und die Konstruktion der Perspektive fokussiert.
+    Allerdings sah das Bild nicht immer so aus, wie es sich uns heute pr\xE4sentiert.
+    Im 16. Jahrhundert \xE4nderten sich die Erwartungen an Bilder, und es wird vermutet,
+    dass man ein Bild ohne Menschen als st\xF6rend empfand. F\xE4llt dir etwas an
+    dem Gem\xE4lde auf? Im linken Vordergrund\_sieht man graue Schatten, die sich
+    beim genaueren Betrachten als\_Silhouetten von Figuren zu erkennen geben. Hier
+    waren also einmal Figuren eingef\xFCgt, die sp\xE4ter wieder entfernt wurden."
+  image: {fileID: 21300000, guid: a739d5eaf9ae647b4a8f4502a2883e70, type: 3}
+  nextCard: {fileID: 0}
+  audio: {fileID: 8300000, guid: 760c3831d0e1341458e4f69ea71d6f11, type: 3}
+  audio_de: {fileID: 8300000, guid: d99886f5b3de142cda42dd59eb8e49b0, type: 3}
