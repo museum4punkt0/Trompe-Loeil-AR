@@ -1,4 +1,4 @@
-## Trompe-l’œil
+# Trompe-l’œil
 
 A prototype for Gemaldegalerie
 This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test different ideas on how Augmented Reality could help to improve the visiting experience of the Gemaldegalerie.
