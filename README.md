@@ -3,7 +3,7 @@
 #### Table of Contents  
 [Description](#Description)  
 [Technical Documentation](#Technical-Documentation)  
-[Installing / Getting started](#nstalling--getting-started)  
+[Installing / Getting started](#installing--getting-started)  
 [Contributing](#Contributing)  
 [Credits](#Credits) 
 [Licensing](#Licensing) 
