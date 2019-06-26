@@ -2,7 +2,7 @@
 
 #### Table of Contents  
 [Description](#Description)  
-[Technical Documentation](#TechnicalDocumentation)  
+[Technical Documentation](#Technical)  
 [Installing / Getting started](#Installing)  
 [Contributing](#Contributing)  
 [Credits](#Credits) 
