@@ -98,7 +98,7 @@ The above credit information and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 The portions of the project that were developed by NEEEU Spaces GmbH, 
-2018 as part of project are provided under the MIT license.
+2018 as part of the project are provided under the MIT license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
