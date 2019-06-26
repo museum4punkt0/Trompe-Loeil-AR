@@ -2,8 +2,8 @@
 
 #### Table of Contents  
 [Description](#Description)  
-[Technical Documentation](#Technical)  
-[Installing / Getting started](#Installing)  
+[Technical Documentation](#Technical-Documentation)  
+[Installing / Getting started](#nstalling--getting-started)  
 [Contributing](#Contributing)  
 [Credits](#Credits) 
 [Licensing](#Licensing) 
