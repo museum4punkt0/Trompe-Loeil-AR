@@ -1,12 +1,12 @@
 # Trompe-l’œil
 
 #### Table of Contents  
-[Description](#Description)  
-[Technical Documentation](#Technical-Documentation)  
-[Installing / Getting started](#installing--getting-started)  
-[Contributing](#Contributing)  
-[Credits](#Credits) 
-[Licensing](#Licensing) 
+- [Description](#Description)  
+- [Technical Documentation](#Technical-Documentation)  
+- [Installing / Getting started](#installing--getting-started)  
+- [Contributing](#Contributing)  
+- [Credits](#Credits) 
+- [Licensing](#Licensing) 
 
 ### Description
 This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test different ideas on how Augmented Reality could help to improve the visitor experience of the Gemaldegalerie.
