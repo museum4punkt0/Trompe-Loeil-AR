@@ -13,7 +13,7 @@ This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test dif
 
 The app is build up out of multiple parts working together, the UnityARKit plugin is used to connect Unity to ARkit for tracking the phone's movement, adding the camera feed and tracking the marker images used for localisation.
 
-This prototype is part of the project museum4punkt0 - Digital Stra-tegies for the Museum of the Future, sub-project Rethinking Visitor Journeys – The Digital Enhancement of Museum Visits. Further information: www.museum4punkt0.de/en/.  
+This prototype is part of the project museum4punkt0 - Digital Stra-tegies for the Museum of the Future, sub-project Rethinking Visitor Journeys. Further information: www.museum4punkt0.de/en/.  
 
 The project museum4punkt0 is funded by the Federal Government Commissioner for Cul-ture and the Media in accordance with a resolution issued by the German Bundestag (Par-liament of the Federal Republic of Germany).
 
@@ -81,7 +81,7 @@ Repository: https://github.com/museum4punkt0/Trompe-Loeil-AR/
 ### Credits
 Contracting entity: Staatliche Museen zu Berlin - Preußischer Kulturbesitz
 
-Design and Programming: NEEEU Spaces GmbH
+Design and Programming: NEEEU Spaces GmbH in colaboration with museum4punkt0
 
 ### Licensing
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -91,7 +91,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above credits information and this permission notice shall be included in all
+The above credit information and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 The portions of the project that were developed by NEEEU Spaces GmbH, 
