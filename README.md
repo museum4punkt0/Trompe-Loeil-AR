@@ -84,6 +84,8 @@ Contracting entity: Staatliche Museen zu Berlin - Preußischer Kulturbesitz
 Design and Programming: NEEEU Spaces GmbH in colaboration with museum4punkt0
 
 ## Licensing
+MIT license
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
