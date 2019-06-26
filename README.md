@@ -64,9 +64,7 @@ In the same menu hit the *Build and Run* button.
 
 In XCode select your iPad and hit run.
 
-Might anything go awry consult the documentation here:
-
-https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing
+Might anything go awry consult the documentation here: https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing
 
 ### Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
