@@ -4,6 +4,7 @@
 - [Description](#Description)  
 - [Technical Documentation](#Technical-Documentation)  
 - [Installing / Getting started](#installing--getting-started)  
+- [Using the app](#Using-the-app)
 - [Contributing](#Contributing)  
 - [Credits](#Credits) 
 - [Licensing](#Licensing) 
@@ -65,6 +66,11 @@ In the same menu hit the *Build and Run* button.
 In XCode select your iPad and hit run.
 
 Might anything go awry consult the documentation here: https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing
+
+## Using the App
+1. User points his/her iPad at the painting. The iPad’s camera scans the painting and points of interest (POIs) appear on top of that painting – in shape of a soap bubble, floating in front of the painting. There are minimum two, maximum four POIs for each painting. 
+
+2. User taps on a bubble and content will be triggered. There are two types of content – text and audio. In addition to that there are special interactions, which enable visitors to explore the painting in unique ways, such as opening and closing the triptych or revealing the x-ray examination of a painting. 
 
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
