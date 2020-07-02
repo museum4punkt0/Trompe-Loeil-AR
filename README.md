@@ -77,7 +77,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 #### Links
 
-Museum4punkt0 website: https://www.museum4punkt0.de/en/
+museum4punkt0 website: https://www.museum4punkt0.de/en/
 
 NEEEU website: www.neu.io
 
