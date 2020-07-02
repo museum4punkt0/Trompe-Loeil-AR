@@ -10,7 +10,7 @@
 - [Licensing](#Licensing) 
 
 ## Description
-This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test different ideas on how Augmented Reality could help to improve the visitor experience of the Gemaldegalerie.
+This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test different ideas on how Augmented Reality could help to improve the visitor experience of the Gemaldegalerie Berlin.
 
 The app is build up out of multiple parts working together, the UnityARKit plugin is used to connect Unity to ARkit for tracking the phone's movement, adding the camera feed and tracking the marker images used for localisation.
 
