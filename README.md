@@ -36,7 +36,7 @@ The app can be in one of two states, administrative mode, this mode sees all the
 This state can be changed through the iOS Settings app, scroll down to the name of the app and select a different role. This will be activated the next time the app is relaunched. Make sure to kill the app through the app switcher by swiping up (iOS 12)
 
 ## Installing / Getting started
-Install Unity 2018.2.14f1.
+This version was made with Unity 2018.2.18f. For installation purposes preferably use Unity 2018.4.27f1 
 
 Download the repository from
 
@@ -52,6 +52,7 @@ ARKit works only for iOS devices which are compatible.
 The list of compatible devices is here:
 
 https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/DeviceCompatibilityMatrix/DeviceCompatibilityMatrix.html
+2020 Update: https://www.apple.com/de/augmented-reality/
 
 ### Initial Configuration
 Make sure the build target is set to iOS in *File -> Build Settings*.
