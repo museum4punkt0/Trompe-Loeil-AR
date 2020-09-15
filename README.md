@@ -81,7 +81,7 @@ museum4punkt0 website: https://www.museum4punkt0.de/en/
 
 NEEEU website: www.neu.io
 
-Project homepage in NEEEU’s website: https://www.neeeu.io/portfolio/projects/gemaeldegalerie/
+Project homepage in NEEEU’s website: https://www.neu.io/projects/gemaeldegalerie/ </br>
 
 Repository: https://github.com/museum4punkt0/Trompe-Loeil-AR/
 
